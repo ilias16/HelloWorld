@@ -15,7 +15,56 @@ div.sticky {
         position: -webkit-sticky;
         position: sticky;
         top: 0;
-        background-color: yellow;
-        padding: 50px;
-        font-size: 20px;
+        background-color: red;
+        padding: 18px;
+        font-size: 15px;
+}'
+div.sticky1 {
+        position: -webkit-sticky;
+        position: sticky;
+}
+body  {
+        background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/Desktop-Bright-HD-Wallpapers-Free-Download.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+p.sansserif {
+        margin-left: 0px;
+        margin-right: 0px;
+}
+.border1 {
+        border: 7px solid yellow;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.border2 {
+        border: 7px solid yellow;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.centering{
+        text-align: center;
+        
+}
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+      }
+/*p.solid {border-style: solid;}
+/*img {
+  width: 100%;
+  height: auto;
+}
+/*position:absolute
+/*.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+/*span.a {
+  display: inline; /* the default for span */ 
+
+/*span.b {
+  display: inline-block;
+ 
 }
